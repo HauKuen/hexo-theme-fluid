@@ -722,14 +722,9 @@ post:
   comments:
     enable: true
     # 指定的插件，需要同时设置对应插件的必要参数
-    # The specified plugin needs to set the necessary parameters at the same time
-<<<<<<< HEAD
+    # The specified plugin needs to set the necessary parameters at the same tim
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus
     type: waline
-=======
-    # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: disqus
->>>>>>> 55df7c03eb98f0ba9aefbb0ecc8f1bb4665ee109
 
 
 #---------------------------
